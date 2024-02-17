@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM python:3.9-alpine3.11
 LABEL maintainer="recipe_app_api"
 
 ENV PYTHONBUFFERED 1
